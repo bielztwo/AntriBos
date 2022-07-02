@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Login</string>
+    <string name="col1">Example Queue</string>
+    <string name="zero">0</string>
+    <string name="samplelink">cGSq5lBH4m</string>
+    <string name="none">None</string>
+    <string name="currentqueue">1</string>
+    <string name="yourqueue">1</string>
+    <string name="totalqueue">1</string>
+</resources>
